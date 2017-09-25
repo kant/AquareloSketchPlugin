@@ -1,0 +1,79 @@
+{
+    "name" : "Aquarelo",
+    "identifier" : "com.GiovanniMariaCusaro.Aquarelo",
+    "version" : "1.0.1",
+    "bundleVersion": 1,
+    "authorEmail" : "app@cusaro.it",
+    "description" : "Shortcuts to send hex value of the layer's fill, border and text color to Aquarelo.",
+	"homepage": "http://www.cusaro.it/aquarelo",
+    "author" : "Giovanni Maria Cusaro",
+    "commands" : [
+    {
+      "script" : "aquarelo.js",
+      "handler" : "firstFill",
+      "shortcut" : "",
+      "name" : "Color fill for first",
+      "identifier" : "first-fill",
+      "description" : "Send HEX color fill for first to Aquarelo",
+      "icon" : "fillFirst.png"
+    },
+    {
+      "script" : "aquarelo.js",
+      "handler" : "lastFill",
+      "shortcut" : "",
+      "name" : "Color fill for last",
+      "identifier" : "last-fill",
+      "description" : "Send HEX color fill for last to Aquarelo",
+      "icon" : "fillLast.png"
+    },
+    {
+      "script" : "aquarelo.js",
+      "handler" : "firstBorder",
+      "shortcut" : "",
+      "name" : "Border color for first",
+      "identifier" : "first-border",
+      "description" : "Send HEX border color for first to Aquarelo",
+      "icon" : "borderFirst.png"
+    },
+    {
+      "script" : "aquarelo.js",
+      "handler" : "lastBorder",
+      "shortcut" : "",
+      "name" : "Border color for last",
+      "identifier" : "last-border",
+      "description" : "Send HEX border color for last to Aquarelo",
+      "icon" : "borderLast.png"
+    },
+    {
+      "script" : "aquarelo.js",
+      "handler" : "firstText",
+      "shortcut" : "",
+      "name" : "Text color for first",
+      "identifier" : "first-text",
+      "description" : "Send HEX text color for first to Aquarelo",
+      "icon" : "textFirst.png"
+    },
+    {
+      "script" : "aquarelo.js",
+      "handler" : "lastText",
+      "shortcut" : "",
+      "name" : "Text color for last",
+      "identifier" : "last-text",
+      "description" : "Send HEX text color for last to Aquarelo",
+      "icon" : "textLast.png"
+    },
+  ],
+  "menu": {
+    "title" : "Aquarelo",
+    "items": [
+      "first-fill",
+      "last-fill",
+      "-",
+      "first-border",
+      "last-border",
+      "-",
+      "first-text",
+      "last-text"
+    ]
+  },
+}
