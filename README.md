@@ -12,11 +12,6 @@ Aquarelo available soon is required.
 ## Installation  
 Download and extract the contents of this repository.
 Then double-click the Aquarelo.sketchplugin bundle to install the plugin.
-
-Or
-
-[![Install PLUGIN NAME with Sketchpacks](http://sketchpacks-com.s3.amazonaws.com/assets/badges/sketchpacks-badge-install.png "Install PLUGIN NAME with Sketchpacks")](https://sketchpacks.com/YOUR_NAME/PLUGIN_NAME/install)
-
 (Sketch 43 or later is required).
 
 ## Usage  
@@ -32,6 +27,6 @@ This plugin also works with [Runner](http://www.sketchrunner.com).
 ## Issues or ideas
 
 If you have any problems, or ideas, please open an issue!
-Send your feedback via [website](http://www.cusaro.it/aquarelo) or [Instagram](https://www.instagram.com/aquareloapp).
+Send your feedback via [website](http://www.cusaro.it/aquarelo).
 
 © 2017 Giovanni Maria Cusaro
