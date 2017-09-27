@@ -1,6 +1,7 @@
 {
     "name" : "Aquarelo",
     "identifier" : "com.GiovanniMariaCusaro.Aquarelo",
+    "appcast" : "https://api.sketchpacks.com/v1/plugins/com.GiovanniMariaCusaro.Aquarelo/appcast",
     "version" : "1.0.1",
     "bundleVersion": 1,
     "authorEmail" : "app@cusaro.it",
