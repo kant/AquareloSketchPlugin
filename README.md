@@ -7,7 +7,7 @@ A Sketch Plugin to send color to Aquarelo app.
 [Watch how it works](http://www.cusaro.it/aquarelo/aquareloPlugin_Sketch.mov) - (9,2Mb).
 
 ## Before
-Aquarelo available soon is required.
+Aquarelo is required. [Downlaod your copy](http://bit.ly/aquareloapp)
 
 ## Installation  
 Download and extract the contents of this repository.
