@@ -27,6 +27,6 @@ This plugin also works with [Runner](http://www.sketchrunner.com).
 ## Issues or ideas
 
 If you have any problems, or ideas, please open an issue!
-Send your feedback via [website](http://www.cusaro.it/aquarelo).
+Send your feedback via [website](https://www.cusaro.it/aquarelo).
 
 © 2017 Giovanni Maria Cusaro
