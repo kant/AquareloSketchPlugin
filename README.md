@@ -1,5 +1,5 @@
 # Aquarelo Sketch Plugin
-A Sketch Plugin to send color to Aquarelo app.
+A Sketch Plugin to send HEX color to Aquarelo app.
 
 ![Aquarelo Sketch Plugin preview](https://raw.githubusercontent.com/GiovanniMaria/aquareloSketchPlugin/master/preview.png)
 
