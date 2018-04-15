@@ -7,7 +7,7 @@ A Sketch Plugin to send HEX color to Aquarelo app.
 [Watch how it works](http://www.cusaro.it/aquarelo/aquareloPlugin_Sketch.mov) - (9,2Mb).
 
 ## Before
-Aquarelo is required. [Downlaod your copy](https://www.cusaro.it/aquarelo)
+Aquarelo is required. [Download your copy](https://www.cusaro.it/aquarelo)
 
 ## Installation  
 Download and extract the contents of this repository.
